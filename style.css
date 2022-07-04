@@ -1,0 +1,110 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: gray;
+}
+#heading{
+    background-color: bisque;
+    height: 90%;
+    width: 100%;
+    margin-right: 10cm;
+    margin-top: 2cm;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}
+
+#titleName{
+    margin-left: 15cm;
+    margin-top: 7cm;
+    position: absolute;
+    align-content: center;
+}
+#titleDescription{
+    margin-left: 15cm;
+    margin-top: 9cm;
+    position: absolute;
+    align-content: center;
+}
+#viewwork{
+    margin-left: 15cm;
+    margin-top: 15cm;
+    position: absolute;
+    align-content: center;
+    
+}
+#backGroundimage{
+    display: flex;
+    background: white;
+    margin-left:1200px ;
+    height: 800px;
+}
+#img1{
+    background: lightgreen;
+    width: 80vw;
+    height: 250vh;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#firstImage{
+    margin-top: 60px;
+    margin-left: 20%;
+    border: 3px solid black;
+    width: 580px;
+    height: 600px;
+}
+#secondImage{
+    margin-left: 20%;
+    border: 3px solid black;
+    width: 580px;
+    height: 600px;
+}
+#firstImageName{
+    text-align: center;
+    font-size: 100px;
+}
+#img2{
+    background: lightsalmon;
+    width: 80vw;
+    height: 250vh;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#thirdImage{
+    margin-top: 60px;
+    margin-left: 20%;
+    border: 3px solid black;
+    width: 580px;
+    height: 600px;
+}
+#secondImageName{
+    text-align: center;
+    font-size: 100px;
+}
+#img3{
+    width: 80vw;
+    height: 250vh;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+#fourthImage{
+    margin-top: 60px;
+    margin-left: 20%;
+    border: 3px solid black;
+    width: 580px;
+    height: 600px;
+}
+#thirdImageName{
+    text-align: center;
+    font-size: 100px;
+}
+#ourWork{
+    margin-left: 15cm;
+    align-content: center;
+    align-items: center;
+    font-size: 3em;
+    
+}
